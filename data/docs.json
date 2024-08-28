@@ -1,0 +1,7 @@
+[
+    { "id": 1, "id_user": 1, "tipo": "Artigo", "titulo": "Artigo Acadêmico", "curso": "Matemática", "turno": "Noite" },
+    { "id": 2, "id_user": 2, "tipo": "Relatório", "titulo": "Relatório de Pesquisa", "curso": "História", "turno": "Manhã" },
+    { "id": 3, "id_user": 3, "tipo": "Trabalho", "titulo": "Trabalho de História", "curso": "Geografia", "turno": "Tarde" },
+    { "id": 4, "id_user": 4, "tipo": "Estudo de Caso", "titulo": "Estudo de Caso 2024", "curso": "Engenharia de Software", "turno": "Noite" },
+    { "id": 5, "id_user": 5, "tipo": "Projeto", "titulo": "Projeto de Engenharia", "curso": "Engenharia Civil", "turno": "Manhã" }
+]

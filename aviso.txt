@@ -1,0 +1,4 @@
+URL para acessar os dados:
+
+http://localhost:3000/api/docs - Documentos
+http://localhost:3000/api/users - Usuários

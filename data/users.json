@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Laura Souza", "email": "laura.souza@example.com", "senha": "senha456" },
+    { "id": 2, "name": "Roberto Lima", "email": "roberto.lima@example.com", "senha": "senha456" },
+    { "id": 3, "name": "Fernanda Silva", "email": "fernanda.silva@example.com", "senha": "senha456" },
+    { "id": 4, "name": "Lucas Oliveira", "email": "lucas.oliveira@example.com", "senha": "senha456" },
+    { "id": 5, "name": "Juliana Santos", "email": "juliana.santos@example.com", "senha": "senha456" }
+]
